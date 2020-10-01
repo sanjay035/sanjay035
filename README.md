@@ -1,9 +1,15 @@
-### Hey folks 👋 This is Sanjay, welcome to my profile✨. 
+### Hey folks 👋 This is Sanjay, welcome to my profile✨.
+- ⚡ I'm an entry-level Software Engineer, ML trainee who takes pride in developing practical & time-saving software solutions to deliver cost-effective timely results.
+
+- 🌱 Used my skills to build a portfolio of projects, now eager to apply the same knowledge to real-world business problems.
+
+- 🔭 Currently practicing and improving on my problem-solving skills related to Data structures, Algorithms, Object Oriented Programming with C++, Java, Python.
+
+- 💬 Contributing at GeeksForGeeks, TowardsDataScience, AnalyticsVidhya (Medium).
+
 ### Contact me: 
-<a href="https://medium.com/@sanjay235"><img align="left" alt="Sanjay235 - Medium" width="30px" src="https://img.icons8.com/doodle/48/000000/blogger--v1.png"/></a>
-<a href="https://www.linkedin.com/in/sanjayulsha/"><img align="left" alt="Sanjay Ulsha - LinkedIn" width="30px" src="https://img.icons8.com/color/48/000000/linkedin-circled.png"/></a>
-<a href="https://www.instagram.com/saanj_two35/"><img align="left" alt="Saanj235 - Instagram" width="30px" src="https://img.icons8.com/color/2x/instagram-new.png"/></a>
-<br />
+<a href="https://medium.com/@sanjay235"><img align="left" alt="Sanjay235 - Medium" width="30px" src="https://img.icons8.com/doodle/48/000000/blogger--v1.png"/></a><a href="https://www.linkedin.com/in/sanjayulsha/"><img align="left" alt="Sanjay Ulsha - LinkedIn" width="30px" src="https://img.icons8.com/color/48/000000/linkedin-circled.png"/></a><a href="https://www.instagram.com/saanj_two35/"><img align="left" alt="Saanj235 - Instagram" width="30px" src="https://img.icons8.com/color/2x/instagram-new.png"/></a>
+<br/>
 <!--
 **sanjay235/sanjay235** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 https://cdn.jsdelivr.net/npm/simple-icons@3.10.0/icons/blogger.svg
