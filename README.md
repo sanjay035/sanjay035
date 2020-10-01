@@ -1,8 +1,8 @@
 ### Hey folks 👋 This is Sanjay, welcome to my profile✨. 
 ### Contact me: 
-<a href="https://medium.com/@sanjay235"><img align="left" alt="Sanjay235 - Medium" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.10.0/icons/blogger.svg"/></a>
-<a href="https://www.linkedin.com/in/sanjayulsha/"><img align="left" alt="Sanjay Ulsha - LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg"/></a>
-<a href="https://www.instagram.com/saanj_two35/"><img align="left" alt="Saanj235 - Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg"/></a>
+<a href="https://medium.com/@sanjay235"><img align="left" alt="Sanjay235 - Medium" width="30px" src="https://img.icons8.com/doodle/48/000000/blogger--v1.png"/></a>
+<a href="https://www.linkedin.com/in/sanjayulsha/"><img align="left" alt="Sanjay Ulsha - LinkedIn" width="30px" src="https://img.icons8.com/color/48/000000/linkedin-circled.png"/></a>
+<a href="https://www.instagram.com/saanj_two35/"><img align="left" alt="Saanj235 - Instagram" width="30px" src="https://img.icons8.com/color/2x/instagram-new.png"/></a>
 <br />
 <!--
 **sanjay235/sanjay235** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
