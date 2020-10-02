@@ -1,4 +1,4 @@
-### Hey folks 👋 This is Sanjay, welcome to my profile✨.
+### Hey there 👋 This is Sanjay, welcome to my profile✨.
 - ⚡ I'm an entry-level Software Engineer, ML trainee who takes pride in developing practical & time-saving software solutions to deliver cost-effective timely results.
 
 - 🌱 Used my skills to build a portfolio of projects, now eager to apply the same knowledge to real-world business problems.
@@ -7,7 +7,7 @@
 
 - 💬 Contributing at GeeksForGeeks, TowardsDataScience, AnalyticsVidhya (Medium).
 
-### Contact me: 
+### 📫 Contact me: 
 <a href="https://www.linkedin.com/in/sanjayulsha/"><img align="left" alt="SanjayUlsha - LinkedIn" width="30px" src="https://img.icons8.com/color/48/000000/linkedin-circled.png"/></a>
 <a href="https://leetcode.com/saanj235/"><img align="left" alt="Saanj235 - Leetcode" height="32px" width="30px" src="https://upload.wikimedia.org/wikipedia/commons/1/19/LeetCode_logo_black.png"/></a>
 <a href="https://stackoverflow.com/users/9079093/sanjay"><img align="left" alt="Sanjay - StackOverflow" width="30px" src="https://upload.wikimedia.org/wikipedia/commons/e/ef/Stack_Overflow_icon.svg"/></a>
