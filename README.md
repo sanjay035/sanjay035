@@ -16,7 +16,8 @@
 <a href="https://www.hackerrank.com/NS_09"><img align="left" alt="NS_09 - Hackerrank" height="31px" width="32px" src="https://cdn4.iconfinder.com/data/icons/logos-and-brands/512/160_Hackerrank_logo_logos-512.png"/></a>
 <a href="https://medium.com/@sanjay235"><img align="left" alt="Sanjay235 - Medium" width="30px" src="https://img.icons8.com/doodle/48/000000/blogger--v1.png"/></a>
 <a href="https://www.instagram.com/saanj_two35/"><img align="left" alt="Saanj235 - Instagram" width="30px" src="https://img.icons8.com/color/2x/instagram-new.png"/></a>
-<br/>
+
+![Sanjay's GitHub stats](https://github-readme-stats.vercel.app/api?username=sanjay235&show_icons=true&count_private=true&hide_rank=false&theme=dark)
 <!--
 **sanjay235/sanjay235** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 https://cdn.jsdelivr.net/npm/simple-icons@3.10.0/icons/blogger.svg
