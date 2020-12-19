@@ -1,5 +1,5 @@
 ### Hey there 👋 This is Sanjay👻, welcome to my profile✨.
-- ⚡ I'm an entry-level Software Engineer, ML trainee who takes pride in developing practical & time-saving software solutions to deliver cost-effective timely results.
+- ⚡ I'm an entry-level Software Engineer who takes pride in developing practical & time-saving software solutions to deliver cost-effective timely results.
 
 - 🌱 Used my skills to build a portfolio of projects, now eager to apply the same knowledge to real-world business problems.
 
