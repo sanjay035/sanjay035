@@ -3,10 +3,9 @@
 
 - 🌱 Used my skills to build a portfolio of projects, eager to apply the same knowledge to real-world business problems.
 
-- 🔭 I frequently participate in coding contests, learn from mistakes to leverage and improve my problem-solving skills. And open to new & exciting challenges. 
-Skilled in problem-solving, Data structures, Algorithms, Object Oriented Programming with C++, Java, Python.
+- 🔭 I frequently participate in coding contests, learn from mistakes to leverage and improve my problem-solving skills, open to new & exciting challenges. 
 
-- 💬 Contributing at GeeksForGeeks, TowardsDataScience, AnalyticsVidhya (Medium).
+- 💬 Skilled in problem-solving, Data structures, Algorithms, Object Oriented Programming with C++, Java, Python. I also contribute at GeeksForGeeks, TowardsDataScience.
 
 ### 📫 Connect with me: 
 <a href="https://www.linkedin.com/in/sanjayulsha/"><img align="left" alt="SanjayUlsha - LinkedIn" width="30px" src="https://img.icons8.com/color/48/000000/linkedin-circled.png"/></a>
