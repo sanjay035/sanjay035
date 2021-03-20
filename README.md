@@ -1,7 +1,7 @@
 ### Hey there👋🏻 This is Sanjay🧑🏻‍💻, welcome to my profile 🚀.
-- ⚡ I'm an experienced Software Engineer and I take pride in developing practical & time-saving software solutions to deliver cost-effective results.
+- ⚡ As an experienced software engineer, I take pride in developing practical & time-saving software and add value to the products & organization.
 
-- 🔭 I frequently participate in coding contests, learn from mistakes to leverage and improve my problem-solving skills, open to new & exciting challenges.
+- 🔭 In order to leverage & improve on my problem-solving skills, I frequently participate in coding contests and learn from mistakes.
 
 - 💬 Skilled at Problem-Solving, Data structures, Algorithms, Object Oriented Programming with C++, Java, Python. I also contribute at GeeksForGeeks, TowardsDataScience.
 
