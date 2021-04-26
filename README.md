@@ -13,7 +13,7 @@
 <a href="https://auth.geeksforgeeks.org/user/saanj235/profile"><img align="left" alt="Saanj235 - GFG" width="30px" src="https://media.geeksforgeeks.org/wp-content/uploads/20200326201748/download312.png"/></a>
 <a href="https://www.hackerearth.com/@sanjayulsha"><img align="left" alt="sanjayulsha - HackerEarth" width="30px" src="https://www.clipartmax.com/png/small/217-2178440_hackerearth-hackerearth-icon.png"/></a>
 <a href="https://medium.com/@sanjay235"><img align="left" alt="Sanjay235 - Medium" width="30px" src="https://img.icons8.com/doodle/48/000000/blogger--v1.png"/></a>
-<a href="https://instagram.com/dynamic.35/"><img align="left" alt="Saanj235 - Instagram" width="30px" src="https://img.icons8.com/color/2x/instagram-new.png"/></a>
+<a href="https://instagram.com/dynamic.engr35/"><img align="left" alt="Saanj235 - Instagram" width="30px" src="https://img.icons8.com/color/2x/instagram-new.png"/></a>
 <br/><br/>
 ![Sanjay's GitHub stats](https://github-readme-stats.vercel.app/api?username=sanjay235&show_icons=true&count_private=true&hide_rank=false&theme=dark)
 <!--
