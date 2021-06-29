@@ -3,7 +3,7 @@
 
 - 🔭 In order to leverage & improve on my problem-solving skills, I frequently participate in coding contests and learn from mistakes.
 
-- 💬 Skilled at Problem-Solving, Data structures, Algorithms, Object Oriented Programming with C++, Java, Python. I also contribute at GeeksForGeeks, TowardsDataScience.
+- 💬 Skilled at Problem-Solving, Data structures, Algorithms, Object Oriented Programming with Go, C++, Java. I also contribute at GeeksForGeeks, TowardsDataScience.
 
 ### 📫 Connect with me: 
 <a href="https://www.linkedin.com/in/sanjayulsha/"><img align="left" alt="SanjayUlsha - LinkedIn" width="30px" src="https://img.icons8.com/color/48/000000/linkedin-circled.png"/></a>
